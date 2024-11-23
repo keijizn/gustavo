@@ -6,7 +6,7 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Eng
 
 - 👨‍🎓 **Graduação**: Engenharia de Software na PUC Minas.
 - 🌱 **Atividades Atuais**: Foco em aprimorar meus conhecimentos em desenvolvimento de software, design de sistemas e metodologias ágeis.
-- 💼 **Experiência Profissional**: [Detalhes sobre experiências anteriores ou projetos relevantes, se aplicável]
+- 💼 **Experiência Profissional**: 
 
 ## Habilidades
 
@@ -14,23 +14,8 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Eng
 - **Desenvolvimento Web:** HTML, CSS, JavaScript, React
 - **Banco de Dados:** MySQL, MongoDB
 - **Metodologias:** Scrum, Kanban
-- **Ferramentas:** Git, VS Code, Eclipse
+- **Ferramentas:** Git, VS Code, Eclipse, IntelliJ
 - *[Adicione outras habilidades relevantes]*
-
-## Projetos Destacados
-
-### [Nome do Projeto]
-
-Breve descrição do projeto e suas tecnologias principais.
-
-### [Nome do Projeto]
-
-Breve descrição do projeto e suas tecnologias principais.
-
-## Contribuições
-
-- [Nome do Projeto/Open Source]: Breve descrição da contribuição.
-
 ## Contato
 
 - **E-mail:** gustavo20014@hotmail.com.br
